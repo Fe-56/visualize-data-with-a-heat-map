@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visualize-data-with-a-heat-map/static/css/main.e738458e.css",
+    "main.js": "/visualize-data-with-a-heat-map/static/js/main.8485a4cf.js",
+    "index.html": "/visualize-data-with-a-heat-map/index.html",
+    "main.e738458e.css.map": "/visualize-data-with-a-heat-map/static/css/main.e738458e.css.map",
+    "main.8485a4cf.js.map": "/visualize-data-with-a-heat-map/static/js/main.8485a4cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e738458e.css",
+    "static/js/main.8485a4cf.js"
+  ]
+}
